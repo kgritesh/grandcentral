@@ -23,7 +23,7 @@ test_requirements = [
 ]
 
 setup(
-    name='grandcentral',
+    name='grandcentral-py',
     version='0.1.0',
     description="GrandCentral is an extremely basic publisher subscriber event library",
     long_description=readme + '\n\n' + history,
