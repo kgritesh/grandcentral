@@ -2,11 +2,8 @@
 GrandCentral
 ===============================
 
-.. image:: https://img.shields.io/travis/kgritesh/grandcentral.svg
-        :target: https://travis-ci.org/kgritesh/grandcentral
-
 .. image:: https://img.shields.io/pypi/v/grandcentral.svg
-        :target: https://pypi.python.org/pypi/grandcentral
+        :target: https://pypi.python.org/pypi/grandcentral-py
 
 
 GrandCentral is an extremely basic publisher subscriber event library
